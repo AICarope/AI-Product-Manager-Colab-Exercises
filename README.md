@@ -1,1 +1,2 @@
 # AI-Product-Manager-Colab-Exercises
+This repository contains a collection of Colab notebooks completed as part of the AI Product Manager course led by Marylyn Nika. These exercises focus on applying AI and machine learning concepts to real-world product management scenarios. Each notebook includes hands-on tasks covering topics such as data analysis, model building, natural language processing, and AI-driven product strategies.
