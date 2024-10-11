@@ -18,8 +18,8 @@ The **AI Product Manager (AI PM)** is a hybrid role combining product management
 
 ### 3. Product Strategy and Roadmap
 - **Define the AI product vision**: Create clear PRDs (Product Requirement Documents) and PRFAQs to define how AI will solve specific problems.
-- **Develop the product roadmap**: Plan and prioritize AI features to deliver on time and within budget.
-- **Lifecycle management**: Manage the entire lifecycle from ideation to iteration.
+- **Develop the product roadmap**: Plan and prioritize AI features to deliver on time.
+- **Lifecycle management**: Manage the entire lifecycle from ideation to production.
 
 ### 4. Ethics and Risk Management
 - **AI ethics**: Consider ethical implications such as bias, transparency, and fairness.
