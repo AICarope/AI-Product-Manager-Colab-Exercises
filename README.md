@@ -4,7 +4,7 @@ This repository contains a collection of Colab notebooks completed as part of th
 ## Overview
 
 The **AI Product Manager (AI PM)** is a hybrid role combining product management and artificial intelligence expertise. AI PMs are responsible for developing, managing, and launching AI-powered products that solve real-world business problems while ensuring AI technologies are integrated effectively.
-# AI Product Manager <img src="https://github.com/user-attachments/assets/10666d61-d300-40ed-8831-70bd64e0e972" alt="AI Product Manager Icon" width="350" height="350" align="left">
+# AI Product Manager <img src="https://github.com/user-attachments/assets/10666d61-d300-40ed-8831-70bd64e0e972" alt="AI Product Manager Icon" width="250" height="250" align="left"
 
 ## Core Responsibilities
 
