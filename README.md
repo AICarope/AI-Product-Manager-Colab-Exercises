@@ -1,6 +1,8 @@
 # AI-Product-Manager-Role and Colab-Exercises
 This repository contains a collection of Colab notebooks completed as part of the AI Product Manager course led by Marily Nika. These exercises focus on applying AI and machine learning, deep learning concepts to real-world product management scenarios. Each notebook includes hands-on tasks covering topics such as data analysis, model building, natural language processing, and AI-driven product strategies.
 
+# AI Product Manager ![image](https://github.com/user-attachments/assets/10666d61-d300-40ed-8831-70bd64e0e972)
+
 ## Overview
 
 The **AI Product Manager (AI PM)** is a hybrid role combining product management and artificial intelligence expertise. AI PMs are responsible for developing, managing, and launching AI-powered products that solve real-world business problems while ensuring AI technologies are integrated effectively.
