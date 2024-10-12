@@ -7,7 +7,7 @@ The **AI Product Manager (AI PM)** is a hybrid role combining product management
 
 <img src="https://github.com/user-attachments/assets/10666d61-d300-40ed-8831-70bd64e0e972" alt="AI Product Manager Icon" width="250" height="250" align="left">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br
 
 ## Core Responsibilities
 
